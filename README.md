@@ -1,4 +1,5 @@
 ## EX-03 HALF_ADDER_SUBTRACTOR
+## NAME:M.JOHNPALL
 ## DATE:09-10-2024
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
